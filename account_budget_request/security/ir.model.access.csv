@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_account_budget_request_account_budget_request,account_budget_request.account_budget_request,model_account_budget_request_account_budget_request,,1,0,0,0
